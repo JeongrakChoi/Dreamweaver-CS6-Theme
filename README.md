@@ -5,4 +5,4 @@
 ## 설치
 C:\Users[username]\AppData\Roaming\Adobe\Dreamweaver CS6\en_US\Configuration\CodeColoring
 
-Color.xml 백업 및 적용
+Colors.xml 백업 및 적용
